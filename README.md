@@ -11,6 +11,6 @@ A final year undergrad passionate about machine learning, data science & statist
 I also have a personal blog: [*Listening To Life*](https://abhiswain97.github.io/ListeningToLife/).
 You can check it out if you're interested. I write about anything & everything I love! 
 
-I also post on [*Medium*](https://medium.com/@abhi08as.as) things like tutorials, or simply documenting what I build. 
+I also post on [*Towards data science(Medium)*](https://medium.com/@abhi08as.as) things like tutorials, or simply documenting what I build. 
 
 Here's my CV if you want to have a look -> [*CV*](https://drive.google.com/drive/u/1/my-drive)
