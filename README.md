@@ -13,8 +13,8 @@ My idea of learning new things or following my interests is best described by on
 - 🌱 I’m currently learning the Statistical foundations of learning(deeper dive into maths behind ML/DL) & putting in beginner steps into Competetive Programming.
 - 👯 I’m looking to collaborate on any project involving ML/DL/DS.
 - 💬 Ask me about anything ML/DL/Computer vision. I will try my best to answer or point you to a resource.
-- 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/abhishek-s-4a20819a/)](https://www.linkedin.com/in/abhishek-s-4a20819a/) or 
-- 📧 Mail me at: [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:abhiswain.it.20160@gmail.com)](abhiswain.it.2016@gmail.com@gmail.com)
+- 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/abhishek-s-4a20819a/)](https://www.linkedin.com/in/abhishek-s-4a20819a/) 
+- 📧 Mail me at: [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:abhiswain.it.20160@gmail.com)](abhiswain.it.2016@gmail.com@gmail.com)
 
 I also have a personal blog ✍: [*Listening To Life*](https://abhiswain97.github.io/ListeningToLife/).
 You can check it out if you're interested. I write about anything & everything I love! 
