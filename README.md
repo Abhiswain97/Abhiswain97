@@ -16,7 +16,7 @@ My idea of learning new things or following my interests is best described by on
 - 👯 I’m looking to collaborate on any project involving ML/DL/DS.
 - 💬 Ask me about anything ML/DL/Computer vision. I will try my best to answer or point you to a resource.
 
-I also have a personal blog ✍: [*Listening To Life*](https://abhiswain97.github.io/ListeningToLife/).
+I also have a personal blog ✍: [*abhishekswain.me*](https://abhiswain97.github.io/ListeningToLife/).
 You can check it out if you're interested. I write about anything & everything I love! 
 
 I also post on [*Towards data science*](https://medium.com/@abhi08as.as) things like tutorials, or simply documenting what I build. 
