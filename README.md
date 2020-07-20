@@ -22,3 +22,6 @@ You can check it out if you're interested. I write about anything & everything I
 I also post on [*Towards data science*](https://medium.com/@abhi08as.as) things like tutorials, or simply documenting what I build. 
 
 Here's my CV if you want to have a look -> [*CV*](https://drive.google.com/drive/u/1/my-drive)
+
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Abhiswain97&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+
