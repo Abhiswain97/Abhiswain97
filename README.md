@@ -12,11 +12,11 @@ My idea of learning new things or following my interests is best described by on
 - 🔭 I’m currently working on:
   - [*MyVision*](https://github.com/Abhiswain97/MyVision) which is a wrapper over PyTorch I built to help me abstract things and do more with less code. It's a work in progress  and I welcome you to contribute to it.
   - I am also interested in building a deep learning framework in [Rust](https://www.rust-lang.org/) or C++ atleast try so tht I can understand the underlying details of algorithms. 
-- 🌱 I’m currently learning the [*Statistical foundations of learning(deeper dive into maths behind ML/DL)*. You can also join me](https://abhishekswain.me/markdown/2020/07/19/statsandlinalg.html){:target="_blank"}. And putting in beginner steps into Competetive Programming.
+- 🌱 I’m currently learning the [*Statistical foundations of learning(deeper dive into maths behind ML/DL)*. You can also join me](https://abhishekswain.me/markdown/2020/07/19/statsandlinalg.html). And putting in beginner steps into Competetive Programming.
 - 👯 I’m looking to collaborate on any project involving ML/DL/DS.
 - 💬 Ask me about anything ML/DL/Computer vision. I will try my best to answer or point you to a resource.
 
-My website ✍: [*abhishekswain.me*](https://abhiswain97.github.io/ListeningToLife/).
+My website ✍: [**abhishekswain.me**](https://abhiswain97.github.io/ListeningToLife/).
 You can check it out if you're interested. I write about anything & everything I love! 
 
 I also post on [*Towards data science*](https://medium.com/@abhi08as.as) things like tutorials, or simply documenting what I build. 
