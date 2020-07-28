@@ -1,6 +1,6 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/abhishek-s-4a20819a/)](https://www.linkedin.com/in/abhishek-s-4a20819a/) [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:abhiswain.it.20160@gmail.com)](abhiswain.it.2016@gmail.com@gmail.com)
 
-### New post on my blog: [*My introduction to Julia!*](https://abhishekswain.me/machine%20learning/maths/2020/07/28/Logistic_regression.html) 
+### New post on my blog: [*Hello, Julia!*](https://abhishekswain.me/machine%20learning/maths/2020/07/28/Logistic_regression.html) 
 
 ## Hi there 👋 I am Abhishek !
 
