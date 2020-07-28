@@ -1,6 +1,8 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/abhishek-s-4a20819a/)](https://www.linkedin.com/in/abhishek-s-4a20819a/) [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:abhiswain.it.20160@gmail.com)](abhiswain.it.2016@gmail.com@gmail.com)
 
-### Hi there 👋 I am Abhishek !
+### New post on my blog: [*My introduction to Julia!*](https://abhishekswain.me/machine%20learning/maths/2020/07/28/Logistic_regression.html) 
+
+## Hi there 👋 I am Abhishek !
 
 [![](https://sourcerer.io/fame/Abhiswain97/Abhiswain97/Abhiswain97/images/0)](https://sourcerer.io/fame/Abhiswain97/Abhiswain97/Abhiswain97/links/0)[![](https://sourcerer.io/fame/Abhiswain97/Abhiswain97/Abhiswain97/images/1)](https://sourcerer.io/fame/Abhiswain97/Abhiswain97/Abhiswain97/links/1)[![](https://sourcerer.io/fame/Abhiswain97/Abhiswain97/Abhiswain97/images/2)](https://sourcerer.io/fame/Abhiswain97/Abhiswain97/Abhiswain97/links/2)[![](https://sourcerer.io/fame/Abhiswain97/Abhiswain97/Abhiswain97/images/3)](https://sourcerer.io/fame/Abhiswain97/Abhiswain97/Abhiswain97/links/3)[![](https://sourcerer.io/fame/Abhiswain97/Abhiswain97/Abhiswain97/images/4)](https://sourcerer.io/fame/Abhiswain97/Abhiswain97/Abhiswain97/links/4)[![](https://sourcerer.io/fame/Abhiswain97/Abhiswain97/Abhiswain97/images/5)](https://sourcerer.io/fame/Abhiswain97/Abhiswain97/Abhiswain97/links/5)[![](https://sourcerer.io/fame/Abhiswain97/Abhiswain97/Abhiswain97/images/6)](https://sourcerer.io/fame/Abhiswain97/Abhiswain97/Abhiswain97/links/6)[![](https://sourcerer.io/fame/Abhiswain97/Abhiswain97/Abhiswain97/images/7)](https://sourcerer.io/fame/Abhiswain97/Abhiswain97/Abhiswain97/links/7)
 
