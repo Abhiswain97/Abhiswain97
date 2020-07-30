@@ -16,7 +16,8 @@ My idea of learning new things or following my interests is best described by on
   
 - 🌱 I’m currently learning:
   - the [*Statistical foundations of learning(deeper dive into maths behind ML/DL)*.](https://abhishekswain.me/machine%20learning/maths/books/2020/07/19/statsandlinalg.html). You can also join me. And putting in beginner steps into Competetive Programming.
-  - Learning Julia 
+  - Julia for ML. Follow my journey in this repo -> [*Julia_ML*](https://github.com/Abhiswain97/Julia_ML)
+  
 - 👯 I’m looking to collaborate on any project involving ML/DL/DS.
 - 💬 Ask me about anything ML/DL/Computer vision. I will try my best to answer or point you to a resource.
 
