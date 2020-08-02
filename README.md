@@ -8,16 +8,10 @@
 
 A final year undergrad passionate about machine learning, data science & statistics. 
 
-My idea of learning new things or following my interests is best described by one my favorite physicists, Richard Feynmann: 
-> *"What I cannot create, I do not understand"*
+# Blog posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
-- 🔭 I’m currently working on:
-  - [*MyVision*](https://github.com/Abhiswain97/MyVision) which is a wrapper over PyTorch I built to help me abstract things and do more with less code. It's a work in progress  and I welcome you to contribute to it. 
-  
-- 🌱 I’m currently learning:
-  - the [*Statistical foundations of learning(deeper dive into maths behind ML/DL)*.](https://abhishekswain.me/machine%20learning/maths/books/2020/07/19/statsandlinalg.html). You can also join me. And putting in beginner steps into Competetive Programming.
-  - Julia for ML. Follow my journey in this repo -> [*Julia_ML*](https://github.com/Abhiswain97/Julia_ML)
-  
 - 👯 I’m looking to collaborate on any project involving ML/DL/DS.
 - 💬 Ask me about anything ML/DL/Computer vision. I will try my best to answer or point you to a resource.
 
