@@ -2,13 +2,17 @@
 
 ### New post on my blog: [*Hello, Julia!*](https://abhishekswain.me/machine%20learning/maths/2020/07/28/Logistic_regression-Copy1.html) 
 
-## Hi there 👋 I am Abhishek !
+# Hi there 👋 I am Abhishek !
 
 [![](https://sourcerer.io/fame/Abhiswain97/Abhiswain97/Abhiswain97/images/0)](https://sourcerer.io/fame/Abhiswain97/Abhiswain97/Abhiswain97/links/0)[![](https://sourcerer.io/fame/Abhiswain97/Abhiswain97/Abhiswain97/images/1)](https://sourcerer.io/fame/Abhiswain97/Abhiswain97/Abhiswain97/links/1)[![](https://sourcerer.io/fame/Abhiswain97/Abhiswain97/Abhiswain97/images/2)](https://sourcerer.io/fame/Abhiswain97/Abhiswain97/Abhiswain97/links/2)[![](https://sourcerer.io/fame/Abhiswain97/Abhiswain97/Abhiswain97/images/3)](https://sourcerer.io/fame/Abhiswain97/Abhiswain97/Abhiswain97/links/3)[![](https://sourcerer.io/fame/Abhiswain97/Abhiswain97/Abhiswain97/images/4)](https://sourcerer.io/fame/Abhiswain97/Abhiswain97/Abhiswain97/links/4)[![](https://sourcerer.io/fame/Abhiswain97/Abhiswain97/Abhiswain97/images/5)](https://sourcerer.io/fame/Abhiswain97/Abhiswain97/Abhiswain97/links/5)[![](https://sourcerer.io/fame/Abhiswain97/Abhiswain97/Abhiswain97/images/6)](https://sourcerer.io/fame/Abhiswain97/Abhiswain97/Abhiswain97/links/6)[![](https://sourcerer.io/fame/Abhiswain97/Abhiswain97/Abhiswain97/images/7)](https://sourcerer.io/fame/Abhiswain97/Abhiswain97/Abhiswain97/links/7)
 
 A final year undergrad passionate about machine learning, data science & statistics. 
 
-# Blog posts
+- 🌱 I’m currently learning Julia, math behind ML/DL & other cool stuff.
+- 👯 I’m looking to collaborate on any project involving ML/DL/DS.
+- 💬 Ask me about anything ML/DL/Computer vision. I will try my best to answer or point you to a resource.
+
+## Blog posts
 <!-- BLOG-POST-LIST:START -->
 - [Hello, Julia!](abhishekswain.me/machine%20learning/maths/2020/07/28/Logistic_regression-Copy1.html)
 - [Statistics and Linear Algebra for ML/DL](abhishekswain.me/machine%20learning/maths/books/2020/07/19/statsandlinalg.html)
@@ -16,9 +20,6 @@ A final year undergrad passionate about machine learning, data science & statist
 - [Rust v/s C++ for Deep learning](abhishekswain.me/deep%20learning/machine%20learning/programming%20language/2020/07/12/rust-vs-cpp.html)
 - [Importance of a proper posture](abhishekswain.me/health/lifestyle/2020/07/10/importance-of-posture.html)
 <!-- BLOG-POST-LIST:END -->
-
-- 👯 I’m looking to collaborate on any project involving ML/DL/DS.
-- 💬 Ask me about anything ML/DL/Computer vision. I will try my best to answer or point you to a resource.
 
 My website ✍: [**abhishekswain.me**](https://abhiswain97.github.io/ListeningToLife/).
 You can check it out if you're interested. I write about anything & everything I love! 
