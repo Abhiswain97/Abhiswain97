@@ -13,6 +13,17 @@ A final year undergrad passionate about machine learning, data science & statist
 
 Here's my CV: [*CV*](https://drive.google.com/drive/u/1/my-drive)
 
+## Connect with me:
+
+[<img align="left" alt="abhishekswain.me" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="abhishekswain | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="abhishekswain | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="abhishekswain | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+
+<br>
+
+---
+
 ## 📕 **Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
 - [Hello, Julia!](https://abhishekswain.me/machine%20learning/maths/2020/07/28/Logistic_regression-Copy1.html)
@@ -22,5 +33,11 @@ Here's my CV: [*CV*](https://drive.google.com/drive/u/1/my-drive)
 - [Importance of a proper posture](https://abhishekswain.me/health/lifestyle/2020/07/10/importance-of-posture.html)
 <!-- BLOG-POST-LIST:END --> 
 
+---
+
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Abhiswain97&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
+[website]: https://abhishekswain.me/
+[twitter]: https://twitter.com/Abhi08asAs
+[instagram]: https://www.instagram.com/abhiswain/
+[linkedin]: https://www.linkedin.com/in/abhishek-s-4a20819a/
