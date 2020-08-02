@@ -9,6 +9,8 @@ A final year undergrad passionate about machine learning, data science & statist
 - 🌱 I’m currently learning Julia, math behind ML/DL & other cool stuff.
 - 👯 I’m looking to collaborate on any project involving ML/DL/DS.
 - 💬 Ask me about anything ML/DL/Computer vision. I will try my best to answer or point you to a resource.
+- ✍ My website/personal blog : [**abhishekswain.me**](https://abhiswain97.github.io/ListeningToLife/). I also post on [*Towards data science*](https://medium.com/@abhi08as.as) things like tutorials, or simply documenting what I build.
+- [*My CV*](https://drive.google.com/drive/u/1/my-drive)
 
 ## 📕 **Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
@@ -17,14 +19,7 @@ A final year undergrad passionate about machine learning, data science & statist
 - [Introduction to Machine Learning course (Refreshing the maths)](abhishekswain.me/machine%20learning/2020/07/14/nptelML.html)
 - [Rust v/s C++ for Deep learning](abhishekswain.me/deep%20learning/machine%20learning/programming%20language/2020/07/12/rust-vs-cpp.html)
 - [Importance of a proper posture](abhishekswain.me/health/lifestyle/2020/07/10/importance-of-posture.html)
-<!-- BLOG-POST-LIST:END -->
-
-My website/personal blog ✍: [**abhishekswain.me**](https://abhiswain97.github.io/ListeningToLife/).
-You can check it out if you're interested. I write about anything & everything I love! 
-
-I also post on [*Towards data science*](https://medium.com/@abhi08as.as) things like tutorials, or simply documenting what I build. 
-
-Here's my CV if you want to have a look -> [*CV*](https://drive.google.com/drive/u/1/my-drive)
+<!-- BLOG-POST-LIST:END --> 
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Abhiswain97&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
