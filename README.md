@@ -10,6 +10,11 @@ A final year undergrad passionate about machine learning, data science & statist
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Hello, Julia!](abhishekswain.me/machine%20learning/maths/2020/07/28/Logistic_regression-Copy1.html)
+- [Statistics and Linear Algebra for ML/DL](abhishekswain.me/machine%20learning/maths/books/2020/07/19/statsandlinalg.html)
+- [Introduction to Machine Learning course (Refreshing the maths)](abhishekswain.me/machine%20learning/2020/07/14/nptelML.html)
+- [Rust v/s C++ for Deep learning](abhishekswain.me/deep%20learning/machine%20learning/programming%20language/2020/07/12/rust-vs-cpp.html)
+- [Importance of a proper posture](abhishekswain.me/health/lifestyle/2020/07/10/importance-of-posture.html)
 <!-- BLOG-POST-LIST:END -->
 
 - 👯 I’m looking to collaborate on any project involving ML/DL/DS.
