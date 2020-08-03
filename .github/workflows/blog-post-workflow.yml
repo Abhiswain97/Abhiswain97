@@ -14,3 +14,4 @@ jobs:
       - uses: gautamkrishnar/blog-post-workflow@master
         with:
           feed_list: "https://abhishekswain.me/feed,https://medium.com/feed/@abhi08as.as"
+          max_post_count: 10 
