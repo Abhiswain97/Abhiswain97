@@ -9,7 +9,6 @@ A final year undergrad passionate about machine learning, data science & statist
 - 🌱 I’m currently learning Julia, math behind ML/DL & other cool stuff.
 - 👯 I’m looking to collaborate on any project involving ML/DL/DS.
 - 💬 Ask me about anything ML/DL/Computer vision. I will try my best to answer or point you to a resource.
-- ✍ My website/personal blog : [**abhishekswain.me**](https://abhiswain97.github.io/ListeningToLife/). I also post on [*Towards data science*](https://medium.com/@abhi08as.as) things like tutorials, or simply documenting what I build.
 
 Here's my CV: [*CV*](https://drive.google.com/drive/u/1/my-drive)
 
