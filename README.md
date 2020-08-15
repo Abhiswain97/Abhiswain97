@@ -25,7 +25,7 @@ Here's my CV: [*CV*](https://drive.google.com/drive/u/1/my-drive)
 
 ## 📕 **Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
-- [Reflections](https://abhishekswain.me/2020/08/12/reflections.html)
+- [Reflections](https://abhishekswain.me/reflections/2020/08/12/reflections.html)
 - [Logistic regression with a neural network mindset](https://abhishekswain.me/machine%20learning/maths/2020/07/28/Logistic_regression-Copy1.html)
 - [Statistics and Linear Algebra for ML/DL](https://abhishekswain.me/machine%20learning/maths/books/2020/07/19/statsandlinalg.html)
 - [Introduction to Machine Learning course (Refreshing the maths)](https://abhishekswain.me/machine%20learning/2020/07/14/nptelML.html)
