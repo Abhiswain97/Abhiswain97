@@ -6,7 +6,7 @@
 
 A final year undergrad passionate about machine learning, data science & statistics. 
 
-- 🌱 I’m currently learning Julia, math behind ML/DL & other cool stuff.
+- 🌱 I’m currently learning alot of cool-stuff!
 - 👯 I’m looking to collaborate on any project involving ML/DL/DS.
 - 💬 Ask me about anything ML/DL/Computer vision. I will try my best to answer or point you to a resource.
 
