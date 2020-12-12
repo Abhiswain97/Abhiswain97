@@ -27,6 +27,12 @@ Here's my CV: [*CV*](https://drive.google.com/drive/u/1/my-drive)
 
 ## 📕 **Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
+- [Logistic regression with a neural network mindset](https://abhishekswain.me/machine%20learning/maths/2020/07/28/Logistic_regression-Copy1.html)
+- [Statistics and Linear Algebra for ML/DL](https://abhishekswain.me/machine%20learning/maths/books/2020/07/19/statsandlinalg.html)
+- [Introduction to Machine Learning course (Refreshing the maths)](https://abhishekswain.me/machine%20learning/2020/07/14/nptelML.html)
+- [Rust v/s C++ for Deep learning](https://abhishekswain.me/deep%20learning/machine%20learning/programming%20language/2020/07/12/rust-vs-cpp.html)
+- [Importance of a proper posture](https://abhishekswain.me/health/lifestyle/2020/07/10/importance-of-posture.html)
+- [questus ordo in rebus](https://abhishekswain.me/roadmap/books/2020/07/09/roadmap.html)
 - [Training on a TPU parallelly using PyTorch XLA](https://towardsdatascience.com/training-on-a-tpu-parallelly-using-pytorch-xla-4afef63ee7ac?source=rss-fd9bc3d14474------2)
 <!-- BLOG-POST-LIST:END --> 
 
