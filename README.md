@@ -6,7 +6,8 @@
 
 [![](https://sourcerer.io/fame/Abhiswain97/Abhiswain97/Abhiswain97/images/0)](https://sourcerer.io/fame/Abhiswain97/Abhiswain97/Abhiswain97/links/0)[![](https://sourcerer.io/fame/Abhiswain97/Abhiswain97/Abhiswain97/images/1)](https://sourcerer.io/fame/Abhiswain97/Abhiswain97/Abhiswain97/links/1)[![](https://sourcerer.io/fame/Abhiswain97/Abhiswain97/Abhiswain97/images/2)](https://sourcerer.io/fame/Abhiswain97/Abhiswain97/Abhiswain97/links/2)[![](https://sourcerer.io/fame/Abhiswain97/Abhiswain97/Abhiswain97/images/3)](https://sourcerer.io/fame/Abhiswain97/Abhiswain97/Abhiswain97/links/3)[![](https://sourcerer.io/fame/Abhiswain97/Abhiswain97/Abhiswain97/images/4)](https://sourcerer.io/fame/Abhiswain97/Abhiswain97/Abhiswain97/links/4)[![](https://sourcerer.io/fame/Abhiswain97/Abhiswain97/Abhiswain97/images/5)](https://sourcerer.io/fame/Abhiswain97/Abhiswain97/Abhiswain97/links/5)[![](https://sourcerer.io/fame/Abhiswain97/Abhiswain97/Abhiswain97/images/6)](https://sourcerer.io/fame/Abhiswain97/Abhiswain97/Abhiswain97/links/6)[![](https://sourcerer.io/fame/Abhiswain97/Abhiswain97/Abhiswain97/images/7)](https://sourcerer.io/fame/Abhiswain97/Abhiswain97/Abhiswain97/links/7)
 
-A final year undergrad passionate about machine learning, data science & statistics. 
+I'm a Assistant System Engineer - Trainee at TCS passionate about machine learning, data science & statistics. 
+I am currently pursuing PGD in ML and AI from University of Hyderabad.
 
 - 🌱 I’m currently learning alot of cool-stuff!
 - 👯 I’m looking to collaborate on any project involving ML/DL/DS.
