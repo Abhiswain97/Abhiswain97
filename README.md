@@ -28,6 +28,7 @@ Here's my CV: [*CV*](https://drive.google.com/drive/u/1/my-drive)
 
 ## 📕 **Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
+- [Pluto.jl + fastpages!](https://abhishekswain.me/blog%20post/fastai/fastpages/2021/03/14/pluto-to-Jupyter-cleaned.html)
 - [Logistic regression with a neural network mindset](https://abhishekswain.me/machine%20learning/maths/2020/07/28/Logistic_regression-Copy1.html)
 - [Statistics and Linear Algebra for ML/DL](https://abhishekswain.me/machine%20learning/maths/books/2020/07/19/statsandlinalg.html)
 - [Introduction to Machine Learning course (Refreshing the maths)](https://abhishekswain.me/machine%20learning/2020/07/14/nptelML.html)
