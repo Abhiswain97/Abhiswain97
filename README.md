@@ -9,12 +9,6 @@
 I'm a Assistant System Engineer - Trainee at TCS passionate about machine learning, data science & statistics. 
 I am currently pursuing PGD in ML and AI from University of Hyderabad.
 
-- 🌱 I’m currently learning alot of cool-stuff!
-- 👯 I’m looking to collaborate on any project involving ML/DL/DS.
-- 💬 Ask me about anything ML/DL/Computer vision. I will try my best to answer or point you to a resource.
-
-Here's my CV: [*CV*](https://drive.google.com/drive/u/1/my-drive)
-
 ## Connect with me:
 
 [<img align="left" alt="abhishekswain.me" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
@@ -38,8 +32,6 @@ Here's my CV: [*CV*](https://drive.google.com/drive/u/1/my-drive)
 <!-- BLOG-POST-LIST:END --> 
 
 ---
-
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Abhiswain97&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
 [website]: https://abhishekswain.me/
 [twitter]: https://twitter.com/Abhi08asAs
