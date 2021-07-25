@@ -16,14 +16,6 @@ I am currently pursuing PGD in ML and AI from University of Hyderabad.
 
 <br>
 
-----
-
-# Blog posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-
-----
-
 [website]: https://abhishekswain.me/
 [twitter]: https://twitter.com/Abhi08asAs
 [instagram]: https://www.instagram.com/abhiswain/
