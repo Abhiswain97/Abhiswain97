@@ -5,7 +5,6 @@
 # Hi there 👋 I am Abhishek !
 
 I'm a System Engineer at TCS Digital passionate about machine learning, data science & statistics. 
-I am currently pursuing PGD in ML and AI from University of Hyderabad.
 
 ## Connect with me:
 
